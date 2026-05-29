@@ -909,3 +909,27 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table border="1">
+  
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>College</th>
+      <th>LinkedIn</th>
+      <th>GitHub</th>
+      <th>Issue</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Deepansh Chandra</td>
+      <td>VIT Bhopal</td>
+      <td><a href="https://linkedin.com/in/deepansh-chandra-7410103a9">LinkedIn</a></td>
+      <td><a href="https://github.com/deeepanshchandra">GitHub</a></td>
+      <td>#803</td>
+    </tr>
+  </tbody>
+
+</table>
